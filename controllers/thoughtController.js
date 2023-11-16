@@ -1,4 +1,4 @@
-// imports the models 
+// imports the methods from their respective models
 const { User, Thought } = require('../models');
 
 module.exports = {
